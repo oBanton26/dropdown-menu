@@ -1,7 +1,7 @@
 {
-  "name": "dropdown-menu",
+  "name": "dropdowning",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dropdownLogic.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
@@ -12,16 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oBanton26/basic-template"
+    "url": "git+https://github.com/oBanton26/dropdown-menu"
   },
   "keywords": [],
-  "author": "",
+  "author": "oBanton26",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oBanton26/basic-template/issues"
+    "url": "https://github.com/oBanton26/dropdown-menu/issues"
   },
-  "homepage": "https://github.com/oBanton26/basic-template#readme",
-  "description": "",
+  "homepage": "https://github.com/oBanton26/dropdown-menu#readme",
+  "description": "Module that add dropdowning() function to your project. Making drop-down menus from divs with the dropdown-button class (given you have a .hidden style)",
   "devDependencies": {
     "@eslint/js": "^9.30.1",
     "css-loader": "^7.1.2",
